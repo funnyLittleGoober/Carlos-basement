@@ -1,3 +1,1 @@
-# Carlos-basement
-# tete
-Carlos' random ideas.
+# Curso de Git e Github.
